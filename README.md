@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 ## 💻 Demo
 
-Visit: [Your Azure URL here]
+Visit: [face-mask-detection-by-adarsh.up.railway.app]
 
 ---
 
