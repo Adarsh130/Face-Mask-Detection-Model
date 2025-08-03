@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 ## 💻 Demo
 
-Visit: [face-mask-detection-by-adarsh.up.railway.app]
+[🔗 Live App on Railway](https://face-mask-detection-model-production.up.railway.app/)
 
 ---
 
